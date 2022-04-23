@@ -47,7 +47,7 @@
 
 ---
 
-[![Python](https://img.shields.io/badge/python-3776AB.svg?style=flat&logo=Python&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white)](#)
 [![RUST](https://img.shields.io/badge/Rust-000000.svg?style=flat&logo=rust)](#)
 
 ## Contact
