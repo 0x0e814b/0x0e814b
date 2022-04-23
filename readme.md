@@ -9,7 +9,7 @@
 성능 최적화에 관심이 많으며 연구중입니다.  
 사내 GitLab Repository를 사용하고 있으며, GitHub에는 제 개인 ToyProject들만 올리고 있습니다.
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=110&section=footer)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=110&section=footer)](#)
 
 ## TechStack
 
@@ -17,21 +17,21 @@
 
 ---
 
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=nodedotjs&logoColor=white)
-![SASS](https://img.shields.io/badge/SCSS-CC6699.svg?style=flat&logo=sass&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=flat&logo=vite&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031.svg?style=flat&logo=angularjs)  
-![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?style=flat&logo=mariadb)
-![Vanilla](https://img.shields.io/badge/VanillaJS-131313.svg?style=flat&logo=javascript)
+[![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=nodedotjs&logoColor=white)](#)
+[![SASS](https://img.shields.io/badge/SCSS-CC6699.svg?style=flat&logo=sass&logoColor=white)](#)
+[![Typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=typescript&logoColor=white)](#)
+[![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=flat&logo=vite&logoColor=white)](#)
+[![Angular](https://img.shields.io/badge/Angular-DD0031.svg?style=flat&logo=angularjs)](#)  
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?style=flat&logo=mariadb)](#)
+[![Vanilla](https://img.shields.io/badge/VanillaJS-131313.svg?style=flat&logo=javascript)](#)
 
 ### Interested in
 
 ---
 
-![Vue3](https://img.shields.io/badge/Vue3-4FC08D.svg?style=flat&logo=vuedotjs&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00.svg?style=flat&logo=svelte&logoColor=white)
-![Solid.js](https://img.shields.io/badge/Solid.js-2C4F7C.svg?style=flat&logo=Solid&logoColor=white)
+[![Vue3](https://img.shields.io/badge/Vue3-4FC08D.svg?style=flat&logo=vuedotjs&logoColor=white)](#)
+[![Svelte](https://img.shields.io/badge/Svelte-FF3E00.svg?style=flat&logo=svelte&logoColor=white)](#)
+[![Solid.js](https://img.shields.io/badge/Solid.js-2C4F7C.svg?style=flat&logo=Solid&logoColor=white)](#)
 
 ## PR Language
 
@@ -39,14 +39,15 @@
 
 ---
 
-![Javascript](https://img.shields.io/badge/JavaScript-131313.svg?style=flat&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=PHP&logoColor=white)
+[![Javascript](https://img.shields.io/badge/JavaScript-131313.svg?style=flat&logo=javascript)](#)
+[![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=PHP&logoColor=white)](#)
 
 ### Interested in
 
 ---
 
-![python](https://img.shields.io/badge/python-3776AB.svg?style=flat&logo=python&logoColor=white) ![RUST](https://img.shields.io/badge/Rust-000000.svg?style=flat&logo=rust)
+[![python](https://img.shields.io/badge/python-3776AB.svg?style=flat&logo=python&logoColor=white)](#)
+[![RUST](https://img.shields.io/badge/Rust-000000.svg?style=flat&logo=rust)](#)
 
 ## Contact
 
