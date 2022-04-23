@@ -24,6 +24,7 @@
 [![Angular](https://img.shields.io/badge/Angular-DD0031.svg?style=flat&logo=angularjs)](#)  
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?style=flat&logo=mariadb)](#)
 [![Vanilla](https://img.shields.io/badge/VanillaJS-131313.svg?style=flat&logo=javascript)](#)
+[![Ionic](https://img.shields.io/badge/Ionic-3880FF.svg?style=flat&logo=ionic&logoColor=white)](#)
 
 ### Interested in
 
