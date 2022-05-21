@@ -52,16 +52,7 @@
 
 ## Contact
 
-- Instagram: [0x0e814b](https://instagram.com/0x0e814b)
 - Mail: [tunaflo@gmail.com](mailto:tunaflo@gmail.com)
-- 문의사항은 [웹 프론트엔드 정보공유 오픈채팅](https://open.kakao.com/o/gnXWMHV)에서
-  [@import](https://open.kakao.com/me/teaport) 를 찾아주세요
-
-## TMI
-
-- **0x0e814b**는 16진수로 표현한 제 생일입니다.
-- **Javascript**는 자유로운 언어입니다. 그래서 전 자바스크립트를 선호합니다.
-- **Choonsik.com**은 어쩌다보니 구매하게 되었습니다. 추후 춘식이 프로젝트로 변경 예정입니다 (?)
 
 ## Thanks
 
