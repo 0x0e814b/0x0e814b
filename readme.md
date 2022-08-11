@@ -6,8 +6,7 @@
 자바스크립트로 개발하는 것을 선호하지만  
 다른 언어도 상황에 따라 조금씩 공부해 가며 사용하고 있습니다.
 
-성능 최적화에 관심이 많으며 연구중입니다.  
-사내 GitLab Repository를 사용하고 있으며, GitHub에는 제 개인 프로젝트들만 올리고 있습니다.
+성능 최적화와 인터랙션에 관심이 많으며 연구중입니다.
 
 [![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=110&section=footer)](#)
 
