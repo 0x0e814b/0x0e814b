@@ -11,8 +11,6 @@
 Github 에는 토이프로젝트만 올리고 있으며,  
 그 외 리포는 사내 깃 시스템으로 관리하고 있습니다.
 
-[![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=110&section=footer)](#)
-
 ## TechStack
 
 ### Prefered
