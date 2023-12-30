@@ -25,6 +25,7 @@ Github 에는 토이프로젝트만 올리고 있으며,
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?style=flat&logo=mariadb)](#)
 [![Vanilla](https://img.shields.io/badge/VanillaJS-131313.svg?style=flat&logo=javascript)](#)
 [![Ionic](https://img.shields.io/badge/Ionic-3880FF.svg?style=flat&logo=ionic&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-333333.svg?style=flat&logo=react&logoColor=react)](#)
 
 ### Interested in
 
@@ -33,21 +34,7 @@ Github 에는 토이프로젝트만 올리고 있으며,
 [![Vue3](https://img.shields.io/badge/Vue3-4FC08D.svg?style=flat&logo=vuedotjs&logoColor=white)](#)
 [![Svelte](https://img.shields.io/badge/Svelte-FF3E00.svg?style=flat&logo=svelte&logoColor=white)](#)
 [![Solid.js](https://img.shields.io/badge/Solid.js-2C4F7C.svg?style=flat&logo=Solid&logoColor=white)](#)
-
-## PR Language
-
-### Prefered
-
----
-
-[![Javascript](https://img.shields.io/badge/JavaScript-131313.svg?style=flat&logo=javascript)](#)
-[![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=PHP&logoColor=white)](#)
-
-### Interested in
-
----
-
-[![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white)](#)
+[![Elixir](https://img.shields.io/badge/Elixir-5b248c.svg?style=flat&logo=Elixir&logoColor=white)](#)
 [![RUST](https://img.shields.io/badge/Rust-000000.svg?style=flat&logo=rust)](#)
 
 ## Contact
